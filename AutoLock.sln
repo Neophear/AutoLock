@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLock", "AutoLock\AutoLock.csproj", "{3AB9FB4A-5949-4C18-8F1D-042FB9132B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLockTest", "AutoLockTest\AutoLockTest.csproj", "{F485D295-3E39-4488-9834-9DC3405F6F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB9FB4A-5949-4C18-8F1D-042FB9132B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB9FB4A-5949-4C18-8F1D-042FB9132B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB9FB4A-5949-4C18-8F1D-042FB9132B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB9FB4A-5949-4C18-8F1D-042FB9132B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F485D295-3E39-4488-9834-9DC3405F6F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F485D295-3E39-4488-9834-9DC3405F6F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F485D295-3E39-4488-9834-9DC3405F6F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F485D295-3E39-4488-9834-9DC3405F6F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB8FD77-2839-47B0-9817-BF1D8720B9BA}
+	EndGlobalSection
+EndGlobal
